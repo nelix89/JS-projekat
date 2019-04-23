@@ -1,0 +1,70 @@
+body
+	{
+	background-image:url("penkalo.jpg");
+	background-size:cover;
+	background-repeat: no-repeat;
+	}
+#pitanje1 
+	{
+	font-family:Courier;
+	font-weight:bold;
+	color:#e0ba21;
+	
+	}
+	#p1{
+	font-family:Courier;
+	font-weight:bold;
+	color:#e0ba21;	
+	}
+#pitanje2
+	{
+	font-family:Courier;
+	font-weight:bold;
+	color:#e0ba21;
+	}
+#pitanje3
+	{
+	font-family:Courier;
+	font-weight:bold;
+	color:#e0ba21;
+	}
+	#p3{
+	font-family:Courier;
+	font-weight:bold;
+	color:#e0ba21;	
+	}
+#fajl
+	{
+	font-family:Courier;
+	font-weight:bold;
+	color:#e0ba21;
+	}
+	#sda
+	{
+	font-family:Courier;
+	font-weight:bold;
+	color:#e0ba21;
+	}
+#odgovoribr
+	{
+	font-family:Courier;
+	font-weight:bold;
+	color:red;
+	}
+#pitanje4
+	{
+	font-family:Courier;
+	font-weight:bold;
+	color:#e0ba21;
+	}
+#pitanje6
+	{
+	font-family:Courier;
+	font-weight:bold;
+	color:#e0ba21;
+	}
+	#p6{
+	font-family:Courier;
+	font-weight:bold;
+	color:#e0ba21;	
+	}

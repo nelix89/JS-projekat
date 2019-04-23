@@ -1,0 +1,50 @@
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>Zadaci</title>
+<link rel="stylesheet" href="stil1.css">
+<script src="skripta1.js"></script>
+</head>
+
+<body>
+
+<p id="pitanje1">1. Da li je tacna konstrukcija rečenice: Lee doesn't come home last night.</p>
+<p id="p1">
+<input type="checkBox"  onclick="Tacno()">Da 
+<input type="checkBox"  onclick="Netacno()">Ne
+</p>
+
+<p id="pitanje2">2. Iz kog filma je kovanica reči: supercalifragilisticexpialidocious?</p>
+<p id="p2">
+<button onClick="Ispisi()"> Meri Popins</button><br><br>
+<button onClick="Ispisi1()"> Čarobnjak iz oza</button>
+</p>
+
+<p id="pitanje3">3. Koliko slogova ima u reči "LATELY"</p>
+<p id="p3">
+<input type="radio" name="jedan" onClick="odgovor1()"> Jedan<br>
+<input type="radio" name="dva" onClick="odgovor2()"> Dva<br>
+<input type="radio" name="tri" onClick="odgovor3()"> Tri
+</p>
+
+<p id="fajl">4. Napišite kratak esej o sebi na engleskom i ovde ubacite fajl.</p>
+<p id="sda">
+<input type="file" onClick="izaberi()"></p>
+
+<p id="pitanje4">5. Koje je prošlo vreme glagola "send"?</p>
+<button onClick="vreme()"> Glagol</button>
+
+<p id="pitanje6">6. Izaberi tačnu opciju. Lee___________(not come)home last evening.</p>
+<p id="p6">
+<input type="checkBox" onclick="opcija1()">wasn't coming
+<input type="checkBox" onclick="opcija2()">hadn't came
+<input type="checkBox" onclick="opcija3()">didn't come
+</p>
+<button onclick="Bonus()">Ne znam odgovor, iskoristiću bonus.</button>
+
+
+<p id="odgovoribr">Na osnovu broja tačnih odgovora mozete proveriti vaš nivo znanja engleskog jezika.</p>
+<button onClick="brodgovori()">Proveri koji si nivo</button>
+
+</body>
+</html>

@@ -1,0 +1,60 @@
+body
+	{
+	background-image:url("knjiga.jpg");
+	background-size:cover;
+	background-repeat: no-repeat;
+	}
+	
+h1
+{
+	font-family:Courier;
+	font-weight:bold;
+	color:#e0ba21;
+	text-align:center;
+	font-size:30pt;
+	}
+	
+h2
+{
+	font-family:Courier;
+	font-weight:bold;
+	color:red;
+	text-align:left;
+	}
+h3
+{
+	font-family:Courier;
+	font-weight:bold;
+	color:#e0ba21;
+	text-align:left;
+	}
+#godine
+{
+	font-family:Courier;
+	font-weight:bold;
+	color:red;
+	text-align:center;
+	font-size:12pt;
+}
+#button
+{
+	text-align:center;
+}
+#opcija1
+{
+	font-weight:bold;
+	font-family:Courier;
+	color:black;
+}
+#opcija2
+{
+	font-weight:bold;
+	font-family:Courier;
+	color:black;
+}
+#slikaload{
+	
+	position:absolute;
+	top:60%;
+	left:0%;
+}
